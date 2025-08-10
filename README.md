@@ -1,17 +1,6 @@
-## Hi there 👋
-<!-- Cybersecurity Profile Banner -->
-<p align="center">
-  <img src="https://i.imgur.com/q2XnR2O.gif" alt="Hacker Banner" width="100%"/>
-</p>
-
 <!-- Animated Greeting -->
 <h1 align="center">Hi 👋, I'm Anurag Khokale</h1>
 <h3 align="center">🛡️ Cybersecurity Enthusiast | Ethical Hacker | Network Security Analyst</h3>
-
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=00FF00&center=true&vCenter=true&width=600&lines=🔐+Passionate+about+Cybersecurity;💻+Penetration+Testing+and+Ethical+Hacking;🌍+Securing+the+Digital+World" />
-</p>
 
 <!-- Hacker Console Animation -->
 <p align="center">
